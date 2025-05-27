@@ -1,11 +1,12 @@
-# Sisop-5-2025-IT-Template
+# Sisop-5-2025-IT29
 
 ## Kelompok
 
 Nama | NRP
 --- | ---
-Amoes Noland | 5027231028
-Rafi' Afnaan Fathurrahman | 5027231040
+Bayu Kurniawan | 5027241055
+Angga Firmansyah | 5027241062
+Oryza Qiara Ramadhani | 5027241084
 
 ## Daftar Isi
 
